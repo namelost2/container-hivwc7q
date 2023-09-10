@@ -1,3 +1,15 @@
+# v0.0.3 (Sun Sep 10 2023)
+
+#### ⚠️ Pushed to `main`
+
+- stuff ([@namelost2](https://github.com/namelost2))
+
+#### Authors: 1
+
+- [@namelost2](https://github.com/namelost2)
+
+---
+
 # v0.0.2 (Sun Sep 10 2023)
 
 #### ⚠️ Pushed to `main`
