@@ -1,3 +1,16 @@
+# v0.0.5 (Sun Sep 10 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Fix docker compose ([@namelost2](https://github.com/namelost2))
+- Fixfix port ([@namelost2](https://github.com/namelost2))
+
+#### Authors: 1
+
+- [@namelost2](https://github.com/namelost2)
+
+---
+
 # v0.0.4 (Sun Sep 10 2023)
 
 #### ⚠️ Pushed to `main`
