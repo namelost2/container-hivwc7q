@@ -1,3 +1,15 @@
+# v0.0.4 (Sun Sep 10 2023)
+
+#### ⚠️ Pushed to `main`
+
+- docker group does not exist yet ([@namelost2](https://github.com/namelost2))
+
+#### Authors: 1
+
+- [@namelost2](https://github.com/namelost2)
+
+---
+
 # v0.0.3 (Sun Sep 10 2023)
 
 #### ⚠️ Pushed to `main`
