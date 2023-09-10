@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "namelost2",
+  "repo": "container-hivwc7q",
+  "name": "namelost2",
+  "email": "namelost2-github@realansgar.dev",
+}
