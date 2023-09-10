@@ -1,3 +1,15 @@
+# v0.0.2 (Sun Sep 10 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Add php shell ([@namelost2](https://github.com/namelost2))
+
+#### Authors: 1
+
+- [@namelost2](https://github.com/namelost2)
+
+---
+
 # v0.0.1 (Sun Sep 10 2023)
 
 :tada: This release contains work from a new contributor! :tada:
